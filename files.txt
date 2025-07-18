@@ -1,0 +1,13 @@
+./a4/a4_iso1_htseq_out.txt.gz
+./axw_female/axw_female_iso1_htseq_out.txt.gz
+./axw_male/axw_male_iso1_htseq_out.txt.gz
+./hxw_female/hxw_female_iso1_htseq_out.txt.gz
+./hxw_male/hxw_male_iso1_htseq_out.txt.gz
+./iso1/iso1_iso1_htseq_out.txt.gz
+./ixa_female/ixa_female_iso1_htseq_out.txt.gz
+./ixa_male/ixa_male_iso1_htseq_out.txt.gz
+./ixl_female/ixl_female_iso1_htseq_out.txt.gz
+./ixl_male/ixl_male_iso1_htseq_out.txt.gz
+./ixw_female/ixw_female_iso1_htseq_out.txt.gz
+./lhr/lhr_iso1_htseq_out.txt.gz
+./ixw_male/ixw_male_iso1_htseq_out.txt.gz

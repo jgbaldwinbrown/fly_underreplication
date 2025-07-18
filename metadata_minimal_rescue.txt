@@ -1,0 +1,5 @@
+id	hybridity
+iso1_iso1	mel
+ixa_female_iso1	mel
+ixw_female_iso1	hybrid
+ixl_female_iso1	hybrid_rescue

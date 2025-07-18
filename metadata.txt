@@ -1,0 +1,14 @@
+id	hybridity
+a4_iso1	mel
+axw_female_iso1	hybrid
+axw_male_iso1	hybrid
+hxw_female_iso1	hybrid_rescue
+hxw_male_iso1	hybrid_rescue
+iso1_iso1	mel
+ixa_female_iso1	mel
+ixa_male_iso1	mel
+ixl_female_iso1	hybrid_rescue
+ixl_male_iso1	hybrid_rescue
+ixw_female_iso1	hybrid
+lhr_iso1	sim
+ixw_male_iso1	hybrid
